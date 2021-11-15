@@ -1,6 +1,6 @@
 {
-  "name": "@ionic/storage",
-  "version": "2.3.0",
+  "name": "@zogo/ionic-storage",
+  "version": "2.3.1",
   "description": "Ionic Storage utility",
   "repository": {
     "type": "git",
